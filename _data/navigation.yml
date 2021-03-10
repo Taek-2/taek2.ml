@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "나의 깃허브"
-  url: https://github.com/Taek-2
-  - title: "코딩동아리"
-  url: https://github.com/Taek-2/INT
+- title: "나의 깃허브"
+url: https://github.com/Taek-2
+- title: "코딩동아리"
+url: https://github.com/Taek-2/INT
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
