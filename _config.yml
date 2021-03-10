@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "코딩고딩 C0dingG0ding"
+title                    : "코딩고딩 CodingGoding"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "오은택"
