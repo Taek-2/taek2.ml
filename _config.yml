@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko"
@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "오은택"
 description              : "환상적인 웹사이트. 차라리 마법에 가깝다."
-url                      : "taek2.ml"
+url                      : "https://taek-2.github.io/taek2.ml/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Taek-2/taek2.ml"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
