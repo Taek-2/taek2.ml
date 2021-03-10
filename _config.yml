@@ -95,8 +95,8 @@ analytics:
 # Site Author
 author:
   name             : "오은택"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "나는 대단하다."
+  avatar           : "https://media0.giphy.com/media/CaiVJuZGvR8HK/giphy.gif"
+  bio              : "나는 ."
   location         : "어딘가"
   email            :
   links:
