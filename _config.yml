@@ -97,7 +97,7 @@ author:
   name             : "오은택"
   avatar           : "https://media0.giphy.com/media/CaiVJuZGvR8HK/giphy.gif"
   bio              : "I am amazing!"
-  location         : "어딘가"
+  location         : "Repubic of Korea"
   email            :
   links:
     - label: "Email"
@@ -105,7 +105,7 @@ author:
       url: "mailto:tagizzang@email.com"
     - label: "blog"
       icon: "fas fa-fw fa-link"
-      url: "https://taek2.ml"
+      # url: "https://taek2.ml"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
