@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko"
 title                    : "코딩고딩 CodingGoding"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "환상적인 웹사이트. 차라리 마법에 가깝다."
 name                     : "오은택"
 description              : "환상적인 웹사이트. 차라리 마법에 가깝다."
 url                      : "https://taek-2.github.io/taek2.ml/"
