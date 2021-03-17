@@ -26,6 +26,13 @@ layout: archive
   {% assign posts = site.posts %}
 {% endif %}
 
+<p align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Taek-2&show_icons=true&icon_color=0F2027&bg_color=30,8360c3,2ebf91&title_color=fff&text_color=fff"/>
+  </a>
+</p>
+
+
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
   {% for post in posts %}
@@ -35,8 +42,3 @@ layout: archive
 
 {% include paginator.html %}
 
-<p align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Taek-2&show_icons=true&icon_color=0F2027&bg_color=30,8360c3,2ebf91&title_color=fff&text_color=fff"/>
-  </a>
-</p>
