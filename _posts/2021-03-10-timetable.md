@@ -3,6 +3,8 @@ layout: single
 title:  "내가 만든 학교 시간표!"
 ---
 
+##### 2020.06.03
+
 # Timetable
 ## intro
 학교 시간표 : [http://오늘의시간표.kro.kr](http://오늘의시간표.kro.kr)
