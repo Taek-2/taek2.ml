@@ -111,7 +111,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Kakaotalk"
       icon: "fab fa-fw fa-comment-o"
-      url: "http://qr.kakao.com/talk/AshV8XucmfS2LEUJTePnYnzxSBs-"
+      # url: "http://qr.kakao.com/talk/AshV8XucmfS2LEUJTePnYnzxSBs-"
     - label: "GitHub"
       icon: "fab fa-fw fa-github-square"
       url: "https://github.com/Taek-2"
