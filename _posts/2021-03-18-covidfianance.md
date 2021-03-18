@@ -64,24 +64,24 @@ _ = df_plot.plot(secondary_y='2020 Pandemic', figsize=(14,8), logy=logyn)
 # 1년 주기 그래프
 ## S&P 500
 <p align='center'>
-  <img src="/_posts/imgs/240-1-1.jpg"/>
-  <img src="/_posts/imgs/240-1-2.jpg"/></p>
+  <img src="https://raw.githubusercontent.com/Taek-2/taek2.ml/master/_posts/imgs/240-1-1.jpg"/>
+  <img src="https://raw.githubusercontent.com/Taek-2/taek2.ml/master/_posts/imgs/240-1-2.jpg"/></p>
 <h2>NASDAQ</h2>
 <p align='center'>
-  <img src="/_posts/imgs/240-2-1.jpg"/>
-  <img src="/_posts/imgs/240-2-2.jpg"/>
+  <img src="https://raw.githubusercontent.com/Taek-2/taek2.ml/master/_posts/imgs/240-2-1.jpg"/>
+  <img src="https://raw.githubusercontent.com/Taek-2/taek2.ml/master/_posts/imgs/240-2-2.jpg"/>
 </p>
 
 
 # 3년 주기 그래프
 ## S&P 500
 <p align='center'>
-  <img src="/_posts/imgs/720-1-1.jpg"/>
-  <img src="/_posts/imgs/720-1-2.jpg"/></p>
+  <img src="https://raw.githubusercontent.com/Taek-2/taek2.ml/master/_posts/imgs/720-1-1.jpg"/>
+  <img src="https://raw.githubusercontent.com/Taek-2/taek2.ml/master/_posts/imgs/720-1-2.jpg"/></p>
 <h2>NASDAQ</h2>
 <p align='center'>
-  <img src="/_posts/imgs/720-2-1.jpg"/>
-  <img src="/_posts/imgs/720-2-2.jpg"/>
+  <img src="https://raw.githubusercontent.com/Taek-2/taek2.ml/master/_posts/imgs/720-2-1.jpg"/>
+  <img src="https://raw.githubusercontent.com/Taek-2/taek2.ml/master/_posts/imgs/720-2-2.jpg"/>
 </p>
 
 
