@@ -61,7 +61,7 @@ df_plot['2020 Pandemic'] = ts2
 _ = df_plot.plot(secondary_y='2020 Pandemic', figsize=(14,8), logy=logyn)
 ```
 
-위와 같이 코드를 짠 후, 실행해 그래프 x축 주기와 지수(^GSPC, ^IXIC 등)을 선택하면<br>
+위와 같이 코드를 짠 후, 실행해 그래프 x축 주기와 지수(^GSPC 등)을 선택하면<br>
 '87-10-19 와 2020-03-13을 시작점으로 하는 두 그래프를 그려준다.
 
 # 1년 주기 그래프
