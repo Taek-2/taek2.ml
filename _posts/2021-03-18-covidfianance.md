@@ -9,8 +9,9 @@ title:  "1987년 블랙먼데이와 2020년 코로나19 금융지수 비교"
 '87년 뉴욕 증권시장에서 일어난 주가 대폭락 사건(블랙먼데이) 와, 2020년 코로나19로 인한 주가 폭락을 그래프로 비교하고, 비교해본다. 
 <br>또한 y축을 로그의 형태를 취해 표현하는 로그차트는 어떤 차이와 성질을 지니는지 관찰하고, 원인을 탐구한다.
 
-
+[colab link](https://drive.google.com/file/d/1xqc8n67CJH0AfD2GoiQD3x2IQXKaB6qe/view?usp=sharing)
 ## 코드(참고용)
+
 
 ```python
 import pandas as pd
