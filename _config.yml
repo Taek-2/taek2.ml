@@ -24,7 +24,7 @@ description              : "환상적인 웹사이트. 차라리 마법에 가�
 url                      : "https://taek-2.github.io/taek2.ml/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Taek-2/taek2.ml"
-teaser                   : 
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/coding.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
